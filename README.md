@@ -13,6 +13,7 @@ This Python script can be used to brute force login credentials for Facebook acc
 2.  Go into the directory
      ```bash
      cd Facebook-BruteForce
+     ```
 4. Install the required dependencies by running the following command(optional):
      ```bash
      pip3 install -r requirements.txt 
@@ -20,5 +21,6 @@ This Python script can be used to brute force login credentials for Facebook acc
 5. Run the script and follow the on-screen instructions.
      ```bash
      python3 main.py
+     ```
 _Note: Use this script responsibly and only on accounts that you own or have explicit permission to test._
 >>>>>>> 03f237e (Create README.md)
