@@ -22,5 +22,8 @@ This Python script can be used to brute force login credentials for Facebook acc
      ```bash
      python3 main.py
      ```
+   Video explaining the code: https://drive.google.com/file/d/1QD-5MxjzlovXG4Svhus4WAFHLn4khWe9/view?usp=drive_link
+link to replit:
+https://github.com/aftab0094/Facebook-BruteForce
 _Note: Use this script responsibly and only on accounts that you own or have explicit permission to test._
 >>>>>>> 03f237e (Create README.md)
