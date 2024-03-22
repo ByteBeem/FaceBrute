@@ -4,7 +4,7 @@ import useful_func
 
 def python_bruteforcer_facebook():
     useful_func.clear_screen()
-    username = input("Enter the username:\n")
+    username = input("Enter the username  preferrably email:\n")
     if username == '':
         print("The username cannot be empty!")
         exit()
